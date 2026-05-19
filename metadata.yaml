@@ -1,5 +1,7 @@
 homepage: "https://cookiepilot.io"
 documentation: "https://cookiepilot.io/docs/google-tag-manager"
 versions:
+  - sha: 0f69636052720c7499ba3d6814b838e7d5d0f7e2
+    changeNotes: Update GTM export metadata, gallery display name, CookiePilot thumbnail, and script injection permissions.
   - sha: b00014db88213671dc772483cf6a19535f3e5c37
     changeNotes: Initial CookiePilot CMP template for Google Consent Mode v2 and CDN banner loading.
