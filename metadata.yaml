@@ -1,0 +1,5 @@
+homepage: "https://cookiepilot.io"
+documentation: "https://cookiepilot.io/docs/google-tag-manager"
+versions:
+  - sha: REPLACE_WITH_RELEASE_COMMIT_SHA
+    changeNotes: Initial CookiePilot CMP template for Google Consent Mode v2 and CDN banner loading.
