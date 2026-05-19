@@ -1,5 +1,5 @@
 homepage: "https://cookiepilot.io"
 documentation: "https://cookiepilot.io/docs/google-tag-manager"
 versions:
-  - sha: a8527432001c8edc39ba634556f68f40988632cf
+  - sha: c8c3052762627b88d29e18478670201f5d0a0688
     changeNotes: Update GTM export metadata, gallery display name, CookiePilot thumbnail, and script injection permissions.
